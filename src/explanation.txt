@@ -1,0 +1,27 @@
+
+
+Typescript = javascript + types
+
+superset of JS
+
+2012 by microsoft
+
+Typescript = type safety
+
+
+Javascript problems
+
+1) No type schecking
+2) runtime errors
+3) Hard to maintain large projects
+4) Bugs found only after running
+
+
+Typescript solves
+
+1) Detects error while coding
+2) safer for larger projects
+3) easy debugging
+
+
+
